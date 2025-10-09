@@ -1,0 +1,584 @@
+{
+  "scraping_session": {
+    "timestamp": "2025-10-07T17:44:26.071152",
+    "scraping_timestamp": "20251007_174152",
+    "total_products": 80
+  },
+  "platforms": {
+    "blinkit": {
+      "products_count": 28,
+      "products": [
+        {
+          "name": "Zero maida 100% Atta/ Wheat Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 55.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "White Bread",
+          "brand": "Harvest Gold",
+          "weight": 350.0,
+          "price": 30.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "100% Atta Whole Wheat Bread",
+          "brand": "Harvest Gold",
+          "weight": 450.0,
+          "price": 60.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Brown Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 55.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Premium White Bread 350 g",
+          "brand": "English Oven",
+          "weight": 350.0,
+          "price": 30.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Hearty Brown Bread",
+          "brand": "Harvest Gold",
+          "weight": 400.0,
+          "price": 55.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Milk Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 50.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Zero Maida Multigrain Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 70.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Super Fiber Wheat Bread",
+          "brand": "The Health Factory",
+          "weight": 250.0,
+          "price": 65.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Zero Maida Multigrain Bread",
+          "brand": "Theobroma",
+          "weight": 250.0,
+          "price": 62.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Zero Maida Whole Wheat Bread",
+          "brand": "The Health Factory",
+          "weight": 250.0,
+          "price": 54.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Multigrain Bread",
+          "brand": "Harvest Gold",
+          "weight": 450.0,
+          "price": 70.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Premium White Bread",
+          "brand": "English Oven",
+          "weight": 700.0,
+          "price": 60.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Zero Maida Whole Wheat Bread",
+          "brand": "Theobroma",
+          "weight": 350.0,
+          "price": 62.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Zero Maida Multigrain Bread",
+          "brand": "The Health Factory",
+          "weight": 250.0,
+          "price": 67.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Chef 5 Super Foods  Multigrain Bread (Brown Bread)",
+          "brand": "Protein",
+          "weight": 270.0,
+          "price": 69.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Sandwich White Bread",
+          "brand": "Harvest Gold",
+          "weight": 450.0,
+          "price": 40.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Sandwich White Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 40.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Zero Maida Milk Bread",
+          "brand": "The Health Factory",
+          "weight": 250.0,
+          "price": 57.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Zero Maida Whole Wheat Bread (250 g)",
+          "brand": "Theobroma",
+          "weight": 250.0,
+          "price": 53.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Artisan Bakehouse Buttercrust Milk Bread",
+          "brand": "Suchali's",
+          "weight": 470.0,
+          "price": 200.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "100% Whole Wheat Bread (Zero Maida)",
+          "brand": "Harvest Gold",
+          "weight": 450.0,
+          "price": 60.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "White Bread",
+          "brand": "Bonn",
+          "weight": 700.0,
+          "price": 57.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Sub Footlong Roasted Garlic Bread",
+          "brand": "English Oven",
+          "weight": 150.0,
+          "price": 50.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Garlic Bread",
+          "brand": "English Oven",
+          "weight": 200.0,
+          "price": 35.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Baker's Loaf Zero Maida Oatmeal Multigrain Bread by",
+          "brand": "Harvest Gold",
+          "weight": 350.0,
+          "price": 90.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "High Fibre Brown Bread",
+          "brand": "Bonn",
+          "weight": 400.0,
+          "price": 53.0,
+          "platform": "blinkit"
+        },
+        {
+          "name": "Breakfast Sandwich White Bread",
+          "brand": "Britannia",
+          "weight": 350.0,
+          "price": 30.0,
+          "platform": "blinkit"
+        }
+      ]
+    },
+    "zepto": {
+      "products_count": 29,
+      "products": [
+        {
+          "name": "Milk Slice White Bread",
+          "brand": "Britannia",
+          "weight": 400.0,
+          "price": 55.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida 100% Whole Wheat Bread | Clean Label - Not Brown",
+          "brand": "The Health Factory",
+          "weight": 350.0,
+          "price": 59.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida 100% Whole Wheat Bread | Clean Label - Not Brown",
+          "brand": "The Health Factory",
+          "weight": 350.0,
+          "price": 59.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Multigrain Bread | Clean Label - Not Brown",
+          "brand": "The Health Factory",
+          "weight": 250.0,
+          "price": 61.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "100% Whole Wheat Bread (Zero Maida, No trans fat)",
+          "brand": "Modern",
+          "weight": 400.0,
+          "price": 60.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Milk Plus Bread",
+          "brand": "Modern",
+          "weight": 350.0,
+          "price": 50.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida 100% Whole Wheat Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 60.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Milk Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 55.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Milk Bread | Clean Label - Not Brown",
+          "brand": "The Health Factory",
+          "weight": 250.0,
+          "price": 57.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Bread - 100% Whole Wheat",
+          "brand": "The Health Factory",
+          "weight": 250.0,
+          "price": 54.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Sandwich White Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 55.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Multigrain Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 65.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Multigrain Bread | Clean Label - Not Brown",
+          "brand": "The Health Factory",
+          "weight": 375.0,
+          "price": 78.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Premium White Bread",
+          "brand": "English Oven",
+          "weight": 350.0,
+          "price": 45.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "100% Whole Wheat Bread (No Maida)",
+          "brand": "Britannia",
+          "weight": 400.0,
+          "price": 60.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Superseed Bread",
+          "brand": "Naturbaked",
+          "weight": 300.0,
+          "price": 66.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Protein Bread | Clean Label - Not Brown",
+          "brand": "The Health Factory",
+          "weight": 250.0,
+          "price": 79.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida 100% Whole Wheat Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 60.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Milk Bread | Clean Label - Not Brown",
+          "brand": "The Health Factory",
+          "weight": 250.0,
+          "price": 57.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Chef Double  Bread (No Maida, Multigrain Brown Bread) - Made with MP Sharbati Wheat",
+          "brand": "Protein",
+          "weight": 270.0,
+          "price": 99.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Bombay Pav | Clean Label - Not Brown",
+          "brand": "The Health Factory",
+          "weight": 4.0,
+          "price": 38.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Vitarich Sandwich Premium White Bread",
+          "brand": "Britannia",
+          "weight": 400.0,
+          "price": 55.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Loaf Zero Preservatives Multigrain Bread",
+          "brand": "Baker's",
+          "weight": 350.0,
+          "price": 77.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Oven Whole Wheat Sourdough Bread",
+          "brand": "Brik",
+          "weight": 400.0,
+          "price": 108.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Multigrain Bread | Clean Label - Not Brown",
+          "brand": "The Health Factory",
+          "weight": 250.0,
+          "price": 61.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Zero Maida Multigrain Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 65.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Oven Artisinal Sourdough Bread",
+          "brand": "Brik",
+          "weight": 400.0,
+          "price": 108.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Baker's Loaf: High Protein Bread",
+          "brand": "Modern",
+          "weight": 350.0,
+          "price": 81.0,
+          "platform": "zepto"
+        },
+        {
+          "name": "Bakery Special Bread",
+          "brand": "Iyengars",
+          "weight": 400.0,
+          "price": 72.0,
+          "platform": "zepto"
+        }
+      ]
+    },
+    "bbnow": {
+      "products_count": 23,
+      "products": [
+        {
+          "name": "High Protein 5 Super Foods Bread",
+          "brand": "Protein Chef",
+          "weight": 270.0,
+          "price": 69.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Milk Plus Bread",
+          "brand": "MODERN",
+          "weight": 350.0,
+          "price": 42.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "High Protein Brown Bread",
+          "brand": "Protein Chef",
+          "weight": 270.0,
+          "price": 59.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Fruity Bread - Tasty Treat With Fruit Bits",
+          "brand": "MODERN",
+          "weight": 200.0,
+          "price": 20.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Korean Bun",
+          "brand": "Lakeview",
+          "weight": 240.0,
+          "price": 152.1,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Multigrain Bread",
+          "brand": "English Oven",
+          "weight": 400.0,
+          "price": 70.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Milk Bread",
+          "brand": "Tasties",
+          "weight": 400.0,
+          "price": 49.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Zero Maida Garlic Bread",
+          "brand": "The Baker's Dozen",
+          "weight": 160.0,
+          "price": 99.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Sliced Bread - Big Loaf",
+          "brand": "Moreish",
+          "weight": 800.0,
+          "price": 70.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Artisan Herb Bread - Pre-Sliced",
+          "brand": "fresho! Signature",
+          "weight": 300.0,
+          "price": 89.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Sliced Bread - Classic, Long Loaf",
+          "brand": "Moreish",
+          "weight": 400.0,
+          "price": 40.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Artisan Bread - Multigrain, Pre Sliced",
+          "brand": "fresho! Signature",
+          "weight": 300.0,
+          "price": 129.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Rye Bread - Pre Sliced",
+          "brand": "fresho! Signature",
+          "weight": 300.0,
+          "price": 139.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Fun Slice Fruit Bread",
+          "brand": "Homa",
+          "weight": 200.0,
+          "price": 25.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Medium Sliced White Bread - Oven Fresh, Soft, Sweet, Healthy",
+          "brand": "Nasta",
+          "weight": 400.0,
+          "price": 45.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Classic Sliced Bread",
+          "brand": "Moreish",
+          "weight": 400.0,
+          "price": 45.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Small Sliced White Bread - Oven Fresh, Soft, Sweet, Healthy",
+          "brand": "Nasta",
+          "weight": 200.0,
+          "price": 18.4,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Real Bake - Premium Sliced Bread",
+          "brand": "Kitty",
+          "weight": 200.0,
+          "price": 20.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Crustless Big Slice Brown Bread - Rich In Fibre",
+          "brand": "Super",
+          "weight": 600.0,
+          "price": 85.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Ragi Sliced Bread",
+          "brand": "Bon & Bread",
+          "weight": 250.0,
+          "price": 0.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Sliced White Bread - Fresh, Soft, Sweet, Healthy",
+          "brand": "Nasta",
+          "weight": 800.0,
+          "price": 70.0,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Premium White Bread - Slice, Traditional",
+          "brand": "Bonn Bread",
+          "weight": 400.0,
+          "price": 40.5,
+          "platform": "bbnow"
+        },
+        {
+          "name": "Premium French Brioche Bread - Sliced",
+          "brand": "Bon & Bread",
+          "weight": 200.0,
+          "price": 0.0,
+          "platform": "bbnow"
+        }
+      ]
+    }
+  }
+}

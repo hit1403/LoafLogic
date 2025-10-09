@@ -1,0 +1,211 @@
+{
+  "platform": "zepto",
+  "timestamp": "2025-10-07T17:44:26.067188",
+  "scraping_timestamp": "20251007_174152",
+  "products_count": 29,
+  "products": [
+    {
+      "name": "Milk Slice White Bread",
+      "brand": "Britannia",
+      "weight": 400.0,
+      "price": 55.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida 100% Whole Wheat Bread | Clean Label - Not Brown",
+      "brand": "The Health Factory",
+      "weight": 350.0,
+      "price": 59.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida 100% Whole Wheat Bread | Clean Label - Not Brown",
+      "brand": "The Health Factory",
+      "weight": 350.0,
+      "price": 59.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Multigrain Bread | Clean Label - Not Brown",
+      "brand": "The Health Factory",
+      "weight": 250.0,
+      "price": 61.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "100% Whole Wheat Bread (Zero Maida, No trans fat)",
+      "brand": "Modern",
+      "weight": 400.0,
+      "price": 60.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Milk Plus Bread",
+      "brand": "Modern",
+      "weight": 350.0,
+      "price": 50.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida 100% Whole Wheat Bread",
+      "brand": "English Oven",
+      "weight": 400.0,
+      "price": 60.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Milk Bread",
+      "brand": "English Oven",
+      "weight": 400.0,
+      "price": 55.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Milk Bread | Clean Label - Not Brown",
+      "brand": "The Health Factory",
+      "weight": 250.0,
+      "price": 57.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Bread - 100% Whole Wheat",
+      "brand": "The Health Factory",
+      "weight": 250.0,
+      "price": 54.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Sandwich White Bread",
+      "brand": "English Oven",
+      "weight": 400.0,
+      "price": 55.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Multigrain Bread",
+      "brand": "English Oven",
+      "weight": 400.0,
+      "price": 65.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Multigrain Bread | Clean Label - Not Brown",
+      "brand": "The Health Factory",
+      "weight": 375.0,
+      "price": 78.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Premium White Bread",
+      "brand": "English Oven",
+      "weight": 350.0,
+      "price": 45.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "100% Whole Wheat Bread (No Maida)",
+      "brand": "Britannia",
+      "weight": 400.0,
+      "price": 60.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Superseed Bread",
+      "brand": "Naturbaked",
+      "weight": 300.0,
+      "price": 66.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Protein Bread | Clean Label - Not Brown",
+      "brand": "The Health Factory",
+      "weight": 250.0,
+      "price": 79.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida 100% Whole Wheat Bread",
+      "brand": "English Oven",
+      "weight": 400.0,
+      "price": 60.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Milk Bread | Clean Label - Not Brown",
+      "brand": "The Health Factory",
+      "weight": 250.0,
+      "price": 57.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Chef Double  Bread (No Maida, Multigrain Brown Bread) - Made with MP Sharbati Wheat",
+      "brand": "Protein",
+      "weight": 270.0,
+      "price": 99.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Bombay Pav | Clean Label - Not Brown",
+      "brand": "The Health Factory",
+      "weight": 4.0,
+      "price": 38.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Vitarich Sandwich Premium White Bread",
+      "brand": "Britannia",
+      "weight": 400.0,
+      "price": 55.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Loaf Zero Preservatives Multigrain Bread",
+      "brand": "Baker's",
+      "weight": 350.0,
+      "price": 77.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Oven Whole Wheat Sourdough Bread",
+      "brand": "Brik",
+      "weight": 400.0,
+      "price": 108.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Multigrain Bread | Clean Label - Not Brown",
+      "brand": "The Health Factory",
+      "weight": 250.0,
+      "price": 61.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Zero Maida Multigrain Bread",
+      "brand": "English Oven",
+      "weight": 400.0,
+      "price": 65.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Oven Artisinal Sourdough Bread",
+      "brand": "Brik",
+      "weight": 400.0,
+      "price": 108.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Baker's Loaf: High Protein Bread",
+      "brand": "Modern",
+      "weight": 350.0,
+      "price": 81.0,
+      "platform": "zepto"
+    },
+    {
+      "name": "Bakery Special Bread",
+      "brand": "Iyengars",
+      "weight": 400.0,
+      "price": 72.0,
+      "platform": "zepto"
+    }
+  ]
+}

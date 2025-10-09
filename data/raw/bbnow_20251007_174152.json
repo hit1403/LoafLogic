@@ -1,0 +1,169 @@
+{
+  "platform": "bbnow",
+  "timestamp": "2025-10-07T17:44:26.069151",
+  "scraping_timestamp": "20251007_174152",
+  "products_count": 23,
+  "products": [
+    {
+      "name": "High Protein 5 Super Foods Bread",
+      "brand": "Protein Chef",
+      "weight": 270.0,
+      "price": 69.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Milk Plus Bread",
+      "brand": "MODERN",
+      "weight": 350.0,
+      "price": 42.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "High Protein Brown Bread",
+      "brand": "Protein Chef",
+      "weight": 270.0,
+      "price": 59.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Fruity Bread - Tasty Treat With Fruit Bits",
+      "brand": "MODERN",
+      "weight": 200.0,
+      "price": 20.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Korean Bun",
+      "brand": "Lakeview",
+      "weight": 240.0,
+      "price": 152.1,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Multigrain Bread",
+      "brand": "English Oven",
+      "weight": 400.0,
+      "price": 70.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Milk Bread",
+      "brand": "Tasties",
+      "weight": 400.0,
+      "price": 49.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Zero Maida Garlic Bread",
+      "brand": "The Baker's Dozen",
+      "weight": 160.0,
+      "price": 99.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Sliced Bread - Big Loaf",
+      "brand": "Moreish",
+      "weight": 800.0,
+      "price": 70.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Artisan Herb Bread - Pre-Sliced",
+      "brand": "fresho! Signature",
+      "weight": 300.0,
+      "price": 89.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Sliced Bread - Classic, Long Loaf",
+      "brand": "Moreish",
+      "weight": 400.0,
+      "price": 40.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Artisan Bread - Multigrain, Pre Sliced",
+      "brand": "fresho! Signature",
+      "weight": 300.0,
+      "price": 129.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Rye Bread - Pre Sliced",
+      "brand": "fresho! Signature",
+      "weight": 300.0,
+      "price": 139.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Fun Slice Fruit Bread",
+      "brand": "Homa",
+      "weight": 200.0,
+      "price": 25.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Medium Sliced White Bread - Oven Fresh, Soft, Sweet, Healthy",
+      "brand": "Nasta",
+      "weight": 400.0,
+      "price": 45.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Classic Sliced Bread",
+      "brand": "Moreish",
+      "weight": 400.0,
+      "price": 45.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Small Sliced White Bread - Oven Fresh, Soft, Sweet, Healthy",
+      "brand": "Nasta",
+      "weight": 200.0,
+      "price": 18.4,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Real Bake - Premium Sliced Bread",
+      "brand": "Kitty",
+      "weight": 200.0,
+      "price": 20.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Crustless Big Slice Brown Bread - Rich In Fibre",
+      "brand": "Super",
+      "weight": 600.0,
+      "price": 85.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Ragi Sliced Bread",
+      "brand": "Bon & Bread",
+      "weight": 250.0,
+      "price": 0.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Sliced White Bread - Fresh, Soft, Sweet, Healthy",
+      "brand": "Nasta",
+      "weight": 800.0,
+      "price": 70.0,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Premium White Bread - Slice, Traditional",
+      "brand": "Bonn Bread",
+      "weight": 400.0,
+      "price": 40.5,
+      "platform": "bbnow"
+    },
+    {
+      "name": "Premium French Brioche Bread - Sliced",
+      "brand": "Bon & Bread",
+      "weight": 200.0,
+      "price": 0.0,
+      "platform": "bbnow"
+    }
+  ]
+}
