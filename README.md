@@ -2,6 +2,9 @@
 
 A comprehensive web scraping and data analysis tool that compares bread prices across multiple online grocery platforms in India. The tool scrapes product data, performs intelligent price analysis, and provides an interactive dashboard for insights.
 
+## Abstract
+Link : https://drive.google.com/file/d/1hZa3k5Q-s7UYVD1WEgSyb0WsW125Pfuk/view?usp=drive_link
+
 ## Features
 
 - **Multi-Platform Scraping**: Automated data collection from Blinkit, Zepto, and BigBasket Now
