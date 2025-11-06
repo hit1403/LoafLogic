@@ -1,8 +1,8 @@
-# 🍞 Bread Price Comparison Tool
+# Bread Price Comparison Tool
 
 A comprehensive web scraping and data analysis tool that compares bread prices across multiple online grocery platforms in India. The tool scrapes product data, performs intelligent price analysis, and provides an interactive dashboard for insights.
 
-## 🎯 Features
+## Features
 
 - **Multi-Platform Scraping**: Automated data collection from Blinkit, Zepto, and BigBasket Now
 - **Intelligent Product Matching**: Fuzzy matching algorithm to compare similar products across platforms
@@ -10,7 +10,7 @@ A comprehensive web scraping and data analysis tool that compares bread prices a
 - **Interactive Dashboard**: Streamlit-based web interface for data visualization
 - **Data Management**: Structured data storage with timestamp tracking and export capabilities
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 PriceComparison_og/
@@ -30,11 +30,10 @@ PriceComparison_og/
 ├── config.py                    # Configuration settings
 ├── run_scrapers.py              # Main scraping orchestrator
 ├── run_analysis.py              # Data analysis pipeline
-├── run_scr.py                   # Alternative scraper runner
 └── requirements.txt             # Python dependencies
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -88,8 +87,8 @@ python run_analysis.py
 3. **Visualization Phase**:
    - Interactive dashboard displays insights and comparisons
    - Charts show price distributions, platform comparisons, and savings opportunities
-
-## ⚙️ Configuration
+<!--
+## Configuration
 
 ### Scraping Settings (`config.py`)
 
@@ -104,8 +103,8 @@ Configure target URLs for each platform in `PLATFORM_URLS` dictionary.
 
 ### Browser Configuration
 Playwright browser settings including headless mode, viewport size, and user agent.
-
-## 🔍 Key Components
+-->
+## Key Components
 
 ### Scrapers
 - **BaseScraper**: Abstract base class providing common functionality
@@ -136,7 +135,7 @@ Playwright browser settings including headless mode, viewport size, and user age
   - All Deals Analysis: Detailed analysis of all products
   - Raw Data: Original scraped data
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Dependencies
 - **Playwright**: Web automation and scraping
@@ -157,7 +156,7 @@ Playwright browser settings including headless mode, viewport size, and user age
 - Price validation (removes free/invalid products)
 - Weight standardization (minimum 100g products)
 - Brand name standardization
-
+<!--
 ## 🔧 Customization
 
 ### Adding New Platforms
@@ -176,14 +175,14 @@ Playwright browser settings including headless mode, viewport size, and user age
 - Add new chart types or filters
 - Customize layout and color schemes
 
-## 🚨 Important Notes
+## Important Notes
 
 - **Rate Limiting**: Scrapers include delays to respect website resources
 - **Legal Compliance**: Ensure scraping activities comply with platform terms of service
 - **Data Freshness**: Scraped data includes timestamps for tracking freshness
 - **Error Handling**: Robust error handling prevents crashes from individual platform failures
 
-## 📝 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 1. **Scraping Failures**: Check internet connection and platform accessibility
@@ -195,6 +194,6 @@ Playwright browser settings including headless mode, viewport size, and user age
 - Screenshot capture during scraping failures
 - Detailed logging for all operations
 - Intermediate data files for troubleshooting
-
+-->
 
 
