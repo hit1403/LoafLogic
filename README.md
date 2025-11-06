@@ -73,7 +73,7 @@ python run_analysis.py
 ```
 
 
-## 📊 Data Flow
+## Data Flow
 
 1. **Scraping Phase**: 
    - Scrapers collect product data from each platform
@@ -122,7 +122,7 @@ Playwright browser settings including headless mode, viewport size, and user age
 - **Filtering options**: Filter by brand, price range, or platform
 - **Export functionality**: Download analysis results
 
-## 📈 Output Files
+## Output Files
 
 ### Raw Data (`data/raw/`)
 - `{platform}_{timestamp}.json`: Individual platform data
